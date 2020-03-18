@@ -2,6 +2,7 @@
   "name": "rs/exception",
   "description": "exception",
   "type": "oxideshop-module",
+  "minimum-stability": "stable",
   "keywords": ["oxid", "modules", "eShop"],
   "homepage": "https://www.reisacher-software.de",
   "license": [
